@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/create-react-temp/static/js/main.ed8d8ffc.chunk.js",
-    "main.js.map": "/create-react-temp/static/js/main.ed8d8ffc.chunk.js.map",
-    "runtime-main.js": "/create-react-temp/static/js/runtime-main.83066d75.js",
-    "runtime-main.js.map": "/create-react-temp/static/js/runtime-main.83066d75.js.map",
-    "static/css/2.818011ed.chunk.css": "/create-react-temp/static/css/2.818011ed.chunk.css",
-    "static/js/2.119589a6.chunk.js": "/create-react-temp/static/js/2.119589a6.chunk.js",
-    "static/js/2.119589a6.chunk.js.map": "/create-react-temp/static/js/2.119589a6.chunk.js.map",
-    "index.html": "/create-react-temp/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/create-react-temp/static/css/2.818011ed.chunk.css.map",
-    "static/js/2.119589a6.chunk.js.LICENSE.txt": "/create-react-temp/static/js/2.119589a6.chunk.js.LICENSE.txt"
+    "main.js": "/react-deploy-temp/static/js/main.ed8d8ffc.chunk.js",
+    "main.js.map": "/react-deploy-temp/static/js/main.ed8d8ffc.chunk.js.map",
+    "runtime-main.js": "/react-deploy-temp/static/js/runtime-main.82128641.js",
+    "runtime-main.js.map": "/react-deploy-temp/static/js/runtime-main.82128641.js.map",
+    "static/css/2.818011ed.chunk.css": "/react-deploy-temp/static/css/2.818011ed.chunk.css",
+    "static/js/2.119589a6.chunk.js": "/react-deploy-temp/static/js/2.119589a6.chunk.js",
+    "static/js/2.119589a6.chunk.js.map": "/react-deploy-temp/static/js/2.119589a6.chunk.js.map",
+    "index.html": "/react-deploy-temp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/react-deploy-temp/static/css/2.818011ed.chunk.css.map",
+    "static/js/2.119589a6.chunk.js.LICENSE.txt": "/react-deploy-temp/static/js/2.119589a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83066d75.js",
+    "static/js/runtime-main.82128641.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.119589a6.chunk.js",
     "static/js/main.ed8d8ffc.chunk.js"
